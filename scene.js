@@ -84,7 +84,7 @@ function buildFlowers(){
     var size=(mobile?22:26)+depth*(mobile?145:210);
 
     for(var side=-1;side<=1;side+=2){
-      var x=.5+side*(spread+(rnd()-.5)*(mobile?.035:.055));
+      var x=.5+side*(spread+(rnd()-.5)*(mobile ? .035 : .055));
       flowerList.push({
         x:x,
         y:baseY+(rnd()-.5)*.018,
