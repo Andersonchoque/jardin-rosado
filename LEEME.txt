@@ -1,0 +1,17 @@
+JARDÍN ROSADO — ANDERSON
+
+Esta versión conserva el diseño del proyecto y añade mejoras de compatibilidad móvil: flores rosadas, animación, carta y dedicatoria.
+
+CÓMO ABRIR EN VISUAL STUDIO CODE
+1. Extrae el ZIP.
+2. En Visual Studio Code, elige Archivo > Abrir carpeta y selecciona Jardin_Rosado_Anderson.
+3. Abre index.html con el navegador o con Live Server.
+
+No necesitas instalar Node.js ni ejecutar npm.
+Desliza hacia arriba en el teléfono o gira la rueda del ratón para avanzar hasta la carta.
+
+ARCHIVOS
+index.html: diseño, estilos y estructura.
+scene.js: animación, flores y textos de la carta.
+
+Las tipografías se descargan de Google Fonts. Sin conexión se usa una tipografía alternativa.
